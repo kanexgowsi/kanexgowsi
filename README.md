@@ -1,6 +1,7 @@
 - 👋 Hi, I’m Gowsigan Kanagalingam
 - 👀 I’m interested in fullstack development
-- 🌱 I’m currently learning MERN stack and react native
+- 🌱 I’m familiar with MERN stack and react native
+- 🌱 I’m currently learning Spring Boot
 
 
 <!---
